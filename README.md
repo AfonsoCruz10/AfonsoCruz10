@@ -16,7 +16,7 @@ Feel free to use this page to check out my university and personal projects!
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true)
 
 
 
