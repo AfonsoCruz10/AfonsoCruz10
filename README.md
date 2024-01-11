@@ -14,4 +14,4 @@ Feel free to use this page to check out my university and personal projects!
 ![](https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&theme=gotham)
 
-
+![Snake animation](https://github.com/AfonsoCruz10/AfonsoCruz10/blob/output/github-contribution-grid-snake.svg)
