@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**AfonsoCruz10/AfonsoCruz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Afonso Cruz**.
 
-Here are some ideas to get you started:
+I have a **Computer Science** Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. After working at [Critical Software](https://criticalsoftware.com/) as a **Junior Software Engineer**, I am currently working towards my master's degree in **Artificial Intelligence** at Utrecht University, while employed as a working student at [Keylane](https://keylane.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to use this page to check out my university and personal projects!
+
+## Spotify Playing 🎧
+
+[![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/21qgj4jlp2vapytcd4hgrk26a)
+
+![](https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true)
