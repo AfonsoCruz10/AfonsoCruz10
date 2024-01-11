@@ -10,6 +10,9 @@ Feel free to use this page to check out my university and personal projects!
 
 [![Spotify](https://AfonsoCruz10.vercel.app/api/spotify)](https://open.spotify.com/user/21qgj4jlp2vapytcd4hgrk26a)
 
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21qgj4jlp2vapytcd4hgrk26a&cover_image=true&theme=default)
+
+
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true)
 
