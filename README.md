@@ -12,3 +12,4 @@ Feel free to use this page to check out my university and personal projects!
 
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true)
+[![Afonso stats](https://github-readme-stats.vercel.app/api/wakatime?username=AfonsoCruz10)]
