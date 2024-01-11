@@ -15,5 +15,8 @@ Feel free to use this page to check out my university and personal projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=flase)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz&hide_progress=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&layout=compact&langs_count=10&hide=html,css&custom_title=Top%20Languages%20&card_width=300)
+
 
