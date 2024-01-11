@@ -13,8 +13,8 @@ Feel free to use this page to check out my university and personal projects!
 ## Stats 🖥️
 <div>
   <a href="https://github.com/AfonsoCruz10">
-  <img heigth="180" scr="https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true"/>
-  <img heigth="180" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&theme=gotham"/>
+  <img heigth="180em" scr="https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true"/>
+  <img heigth="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&theme=gotham"/>
 </div>
 
 
