@@ -8,6 +8,12 @@
     I have a <b>Computer Science</b> Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2024.<br/>
     Feel free to use this page to check out my university and personal projects!
 </div>
+<br/><br/>
+<div align="center"> 
+  <a href="afonsobcruz10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
 <br/>
 <hr/>
@@ -19,14 +25,16 @@
    
 </div>
 
-
 <br/>
 <hr/>
 
 <h3 align="center">Stats 🖥️</h3>
-
+<div align="center">    
+    
 ![](https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&theme=gotham)
+</div>
+
 
 
 <!-- ![Snake animation](https://github.com/AfonsoCruz10/AfonsoCruz10/blob/output/github-contribution-grid-snake.svg)-->
