@@ -5,16 +5,23 @@
 </h1>
 
 <div align="center">
- I have a <b>Computer Science</b> Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2024.
+    I have a <b>Computer Science</b> Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2024.<br/>
+    Feel free to use this page to check out my university and personal projects!
+</div>
+
+<br/>
+<hr/>
+
+<h3 align="center">Spotify Playing 🎧</h3>
+<div align="center">
     
-Feel free to use this page to check out my university and personal projects!
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qgj4jlp2vapytcd4hgrk26a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/21qgj4jlp2vapytcd4hgrk26a) 
+   
 </div>
 
 
-
-<h3 align="center">Spotify Playing 🎧</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qgj4jlp2vapytcd4hgrk26a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/21qgj4jlp2vapytcd4hgrk26a)
+<br/>
+<hr/>
 
 <h3 align="center">Stats 🖥️</h3>
 
