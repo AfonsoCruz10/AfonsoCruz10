@@ -30,7 +30,16 @@
 <div align="center">
     
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qgj4jlp2vapytcd4hgrk26a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/21qgj4jlp2vapytcd4hgrk26a) 
-   
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
