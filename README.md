@@ -10,7 +10,7 @@
     Feel free to use this page to check out my university and personal projects!
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center"> 
   <a href="mailto:afonsobcruz10@gmail.com">
