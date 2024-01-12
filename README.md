@@ -9,7 +9,9 @@
     I have a <b>Computer Science</b> Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2024.<br/>
     Feel free to use this page to check out my university and personal projects!
 </div>
+
 <br/><br/>
+
 <div align="center"> 
   <a href="mailto:afonsobcruz10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -22,8 +24,8 @@
 <br/>
 <hr/>
 
-<h3 align="center">Spotify Playing 🎧</h3>
-<br>
+<h2 align="center">🎧 Spotify Playing 🎧</h2>
+<br/>
 
 <div align="center">
     
@@ -34,24 +36,24 @@
 <br/>
 <hr/>
 
-<h3 align="center">Stats 🖥️</h3>
-<br>
-
-<div align="center">    
-    
-![](https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&hide=contribs,prs&theme=gotham&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide_progress=true&theme=gotham)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AfonsoCruz10/AfonsoCruz10/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-AfonsoCruz10.vercel.app/?user=AfonsoCruz10&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-AfonsoCruz10.vercel.app/api?username=AfonsoCruz10&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-AfonsoCruz10.vercel.app/api/top-langs/?username=AfonsoCruz10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
 
-<!-- ![Snake animation](https://github.com/AfonsoCruz10/AfonsoCruz10/blob/output/github-contribution-grid-snake.svg)-->
+
 
