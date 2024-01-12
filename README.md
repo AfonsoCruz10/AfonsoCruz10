@@ -68,7 +68,7 @@
 <br/><br/><br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Thank´s+to+visit+me!👌;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=5000&lines=Thank´s+to+visit+me!👌;" />
 </h1>
 
 
