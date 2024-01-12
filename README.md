@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,r,matlab" />
     <br/>
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql,haskell" /><br>
+
 </div>
 
 <br/>
@@ -51,7 +52,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AfonsoCruz10/AfonsoCruz10/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
