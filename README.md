@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AfonsoCruz10.AfonsoCruz10" />
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3A4A51&reversal=true&textBg=false&section=header"/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AfonsoCruz10.AfonsoCruz10" />
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%A4%90!+I'm+Afonso+Cruz.;A+Passionate+Software+Developer!;Welcome+to+my+GitHub+Profile." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%A4%90!+I'm+Afonso+Cruz.;I'm+a+software+engineering+student+at+ISEP;Welcome+to+my+GitHub+Profile." alt="Typing SVG" />
   </a>
 </h2>
 
@@ -75,8 +75,8 @@
 
 <br/><br/><br>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=5000&lines=Thanks+for+visiting+my+profile!👌;" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile!👌" alt="Typing SVG" />
+</h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3A4A51&reversal=true&textBg=false&section=footer"/>
