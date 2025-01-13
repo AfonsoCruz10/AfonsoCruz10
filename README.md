@@ -1,5 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AfonsoCruz10.AfonsoCruz10" />
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3A4A51&reversal=true&textBg=false&section=header"/>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Afonso+Cruz!;" />
 </h1>
@@ -66,7 +68,9 @@
     <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/><br/>
+<br/><br/><br
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3A4A51&reversal=true&textBg=false&section=footer"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=5000&lines=Thank´s+to+visit+me!👌;" />
