@@ -39,10 +39,11 @@
 <br/>
 
 <div align="center">
-   <a href="https://open.spotify.com/user/21qgj4jlp2vapytcd4hgrk26a">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21qgj4jlp2vapytcd4hgrk26a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
-  </a>
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qgj4jlp2vapytcd4hgrk26a&redirect=true&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+
 </div>
+
+
 
 <br/>
 <hr/>
