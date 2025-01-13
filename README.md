@@ -2,9 +2,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3A4A51&reversal=true&textBg=false&section=header"/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Afonso+Cruz!;" />
-</h1>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%A4%90!+My+name+is+Afonso+Cruz.;I'm+a+software+engineering+student.;Welcome+to+my+profile+and+feel+free+to+contact+me." alt="Typing SVG" />
+  </a>
+</h2>
+
 <br>
 
 <div align="center">
@@ -68,14 +71,13 @@
     <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/><br
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3A4A51&reversal=true&textBg=false&section=footer"/>
+<br/><br/><br>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=5000&lines=Thank´s+to+visit+me!👌;" />
 </h1>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3A4A51&reversal=true&textBg=false&section=footer"/>
 
 
 
