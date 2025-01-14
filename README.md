@@ -35,19 +35,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">🎵 Spotify Currently Playing 🎵</h2>
-<br/>
-
-<div align="center">
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qgj4jlp2vapytcd4hgrk26a&redirect=true&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
-
-</div>
-
-
-
-<br/>
-<hr/>
-
 <h2 align="center">⚙️ Languages, Frameworks, and Tools ⚙️</h2>
 <br/>
 <div align="center">
@@ -55,6 +42,7 @@
 </div>
 
 <br/>
+
 <hr/>
 
 <div align="center">
@@ -64,8 +52,20 @@
   <br/>
 </div>
 
+<!--
 <hr/>
 
+<h2 align="center">🎵 Spotify Currently Playing 🎵</h2>
+<br/>
+
+<div align="center">
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qgj4jlp2vapytcd4hgrk26a&redirect=true&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+
+</div>
+
+<br/>
+
+<hr/>
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 
@@ -74,7 +74,8 @@
     <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
 </div>
 
-<br/><br/><br>
+<br/>
+-->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile!👌" alt="Typing SVG" />
