@@ -72,7 +72,9 @@
 <h2 align="center"> 🎧 Spotify Currently Playing </h2>
 <br/>
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qgj4jlp2vapytcd4hgrk26a&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Currently Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21qgj4jlp2vapytcd4hgrk26a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21qgj4jlp2vapytcd4hgrk26a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile" />
+  </a>
 </div>
 
 
