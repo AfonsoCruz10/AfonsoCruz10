@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0A66C2&text=Welcome!&fontAlign=70&fontAlignY=40&fontSize=40&textBg=false&animation=fadeIn" />
 
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AfonsoCruz10.AfonsoCruz10" />
+-->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=0A66C2&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=I'm+Afonso+Cruz.;I'm+a+software+engineering+student+at+ISEP;Welcome+to+my+GitHub+Profile." alt="Typing SVG" />
