@@ -21,7 +21,7 @@
   <a href="https://github.com/AfonsoCruz10/AfonsoCruz10/blob/main/curriculo/CV_Afonso.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/afonsocruz10/" target="_blank">
+  <a href="https://www.linkedin.com/in/afonso-cruz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
