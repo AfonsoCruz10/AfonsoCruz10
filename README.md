@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-   Currently pursuing a Bachelor's in Computer Science at <strong>Universidade do Minho</strong> (Class of 2024).<br>
+   Currently pursuing a Master’s in Information and Knowledge Systems at ISEP – Instituto Superior de Engenharia do Porto.<br>
    I'm enthusiastic about coding, problem-solving, and exploring innovative technologies.<br>
    Welcome to my GitHub where you can find my projects, collaborations, and more!
 </p>
@@ -81,9 +81,11 @@
 
 
 ---
-
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=0A66C2&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!;+Feel+free+to+explore+my+profile.👌" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=35&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Feel+free+to+explore+my+profile+%F0%9F%91%8C" 
+    alt="Typing SVG" 
+  />
 </h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0A66C2&section=footer" />
