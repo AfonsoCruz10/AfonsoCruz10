@@ -54,8 +54,9 @@
 
 <div align="center">
     <img width=400 src="https://github-readme-stats.vercel.app/api?username=AfonsoCruz10&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoCruz10&hide=HTML,roff,shell&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
 </div>
+
 
 ---
 
