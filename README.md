@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0A66C2&text=Afonso%20Cruz&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Software%20Engineering%20Student%20%7C%20ISEP&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
 
 ## 👋 About Me
-<div align="center">
-🎓  Master's in Information & Knowledge Systems @ ISEP, Porto
-  
-🌍  Based in Porto, Portugal
 
-💡  Passionate about clean code, system design & problem-solving
+<div align="left">
 
-🔎  Always learning — currently exploring AI/ML applications
+🎓 **Master's in Information & Knowledge Systems** · ISEP, Porto  
+🌍 **Based in** Porto, Portugal  
+💡 **Passionate about** clean code, system design & problem-solving  
+🤖 **Currently exploring** AI / ML applications  
+
 </div>
 
 <p align="center">
