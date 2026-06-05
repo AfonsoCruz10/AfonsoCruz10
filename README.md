@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0A66C2&text=Afonso%20Cruz&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Software%20Engineering%20Student%20%7C%20ISEP&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0A66C2&text=Afonso%20Cruz&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=Computer%20Engineering%20Student%20%7C%20ISEP&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
 
 ## 👋 About Me
 
